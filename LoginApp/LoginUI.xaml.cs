@@ -21,7 +21,7 @@ namespace LoginApp
         {
             //El problema esta en el if....
 
-            if (string.IsNullOrEmpty(txtUsuario.Text) && string.IsNullOrEmpty(txtContrasena.Text))
+            if (string.IsNullOrEmpty(txtUsuario.Text) || string.IsNullOrEmpty(txtContrasena.Text))
             {
                 await DisplayAlert("Advertencia", "Los campos son obligatorios.", "Ok");
                 
@@ -29,7 +29,7 @@ namespace LoginApp
             }
             else
             {
-                await DisplayAlert("Bienvenido", "Hola, " + txtUsuario.Text, "Ok");
+                await DisplayAlert("Bienvenido", "Hola " + txtUsuario.Text, "Ok");
             }
         }
     }
