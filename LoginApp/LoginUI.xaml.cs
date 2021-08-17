@@ -19,7 +19,7 @@ namespace LoginApp
 
        public async void Button_Clicked(object sender, EventArgs e)
         {
-            //El problema esta en el if....
+           
 
             if (string.IsNullOrEmpty(txtUsuario.Text) || string.IsNullOrEmpty(txtContrasena.Text))
             {
