@@ -19,7 +19,7 @@ Simple Login application
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto2.1.1.png)
 
-**Access correctly**
+**Correct access**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto1.png)
 
