@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CHoHa6PdGZWbd6zWKACy2oMCMF9hzzL9gim6t8gghfdqGijpUt5/F5jovSTLbO2HHtREiuzTrXbua8YdnUThhQ==",
+  "dgSpecHash": "7jnkANDfc6Z79UpqVjsbJFhcYN/VtQ/YSi/DxrxHB2Irmcz/PpeycF9fvaubdO6W4ylpNwKKAScyx9oAUI+CBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp\\LoginApp.csproj",
+  "projectFilePath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

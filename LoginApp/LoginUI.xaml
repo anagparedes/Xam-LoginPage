@@ -7,8 +7,8 @@
         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
             <Image Source="logo.jpg" WidthRequest="180" HeightRequest="180"></Image>
             
-            <Entry x:Name="txtUsuario" Placeholder="Usuario" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
-            <Entry  x:Name="txtContrasena" Placeholder="Contraseña" IsPassword="True" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
+            <Entry x:Name="userText" Placeholder="Username" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
+            <Entry  x:Name="passwordText" Placeholder="Password" IsPassword="True" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
             <Button VerticalOptions = "Center"
               Text="Login"     
               TextColor="#121212" 
@@ -16,7 +16,7 @@
               BorderColor="#F1EC40"     
               BorderWidth="1.5"
               CornerRadius="50"
-              Clicked="Button_Clicked"
+              Clicked="OnButtonClicked"
               ></Button>
             
         </StackLayout>

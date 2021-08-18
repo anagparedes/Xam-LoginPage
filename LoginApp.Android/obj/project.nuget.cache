@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gi9Z0cv/X0umjtAQ7fxV1z2xPZ5/TVstJ7u+BSWHeytmqJIboaQOQ45EDViveNqunQqGjyaIwFV/8aB2z7ZRog==",
+  "dgSpecHash": "ENyzqQ+diNsS/RZIy6s+vdRloP434sSE0AD8CoGfaAbMXZ8aKEQpSBqUe7cJk30OiopDjb654m+J+QXF9BjMkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp.Android\\LoginApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp.Android\\LoginApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

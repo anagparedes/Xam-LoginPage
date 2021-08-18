@@ -17,19 +17,19 @@ namespace LoginApp
             InitializeComponent();
         }
 
-       public async void Button_Clicked(object sender, EventArgs e)
+       public async void OnButtonClicked(object sender, EventArgs e)
         {
            
 
-            if (string.IsNullOrEmpty(txtUsuario.Text) || string.IsNullOrEmpty(txtContrasena.Text))
+            if (string.IsNullOrEmpty(userText.Text) || string.IsNullOrEmpty(passwordText.Text))
             {
-                await DisplayAlert("Advertencia", "Los campos son obligatorios.", "Ok");
+                await DisplayAlert("Warning!", "The fields are required.", "Ok");
                 
 
             }
             else
             {
-                await DisplayAlert("Bienvenido", "Hola " + txtUsuario.Text, "Ok");
+                await DisplayAlert("Welcome!", "Hi " + userText.Text, "Ok");
             }
         }
     }

@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp.Android\\LoginApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp.Android\\LoginApp.Android.csproj",
       "projectName": "LoginApp.Android",
-      "projectPath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp.Android\\LoginApp.Android.csproj",
+      "projectPath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp.Android\\LoginApp.Android.csproj",
       "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp\\LoginApp.csproj": {
-              "projectPath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp\\LoginApp.csproj"
+            "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp.csproj": {
+              "projectPath": "C:\\Users\\Ana\\Desktop\\Mobile Dev HW\\Practica#1\\LoginApp\\LoginApp.csproj"
             }
           }
         }
