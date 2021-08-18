@@ -1,2 +1,2 @@
-# Xam-LoginUI
+# Xam-LoginPage
 Simple Login application
