@@ -5,21 +5,21 @@ Simple Login application
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto1.png)
 
-**Validacion de Campos:**
+**Validate empty fields:**
 
-**Usuario**
+**Username**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto1.1.png)
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto1.1.1.png)
 
-**Contraseña**
+**Password**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto2.1.png)
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto2.1.1.png)
 
-**Acceder correctamente**
+**Correct access**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginUI/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto1.png)
 
