@@ -11,7 +11,7 @@ namespace LoginApp
             InitializeComponent();
 
             //MainPage = new MainPage();
-            MainPage = new LoginUI();
+            MainPage = new LoginPage();
         }
 
         protected override void OnStart()
